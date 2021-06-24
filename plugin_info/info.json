@@ -1,0 +1,13 @@
+{
+    "id" : "SmartIoT",
+    "name" : "Smart 4IoT",
+    "description" : "Plugin to export Tuya devices",
+    "licence" : "AGPL",
+    "author" : "oliveiraallex",
+    "require" : "3.2",
+    "category" : "devicecommunication",
+    "changelog" : "",
+    "documentation" : "",
+    "language" : "",
+    "compatibility" : ""
+}
